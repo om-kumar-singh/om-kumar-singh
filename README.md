@@ -11,7 +11,6 @@
 💡 I love building intelligent, user-focused applications that bridge technology and real-world impact.  
 🚀 Currently exploring **React, Flask, and Machine Learning** for building scalable systems.  
 
-- 🔭 I’m currently working on [**CredNova – AI Loan Risk & Recommendation Platform**](https://github.com/om-kumar-singh/CredNova-01)  
 - 🌱 Learning: **LSTM**, **ARIMA**, **TypeScript**, **Next.js**, **Flask**  
 - 💬 Ask me about: **Python**, **React**, **Machine Learning**, **Web Development**  
 - 📫 Reach me at: **omkumarsingh2004@gmail.com**  
