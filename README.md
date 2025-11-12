@@ -113,7 +113,6 @@ I'm always open to discussing **AI projects, technical collaborations, and innov
 **Connect with me:**
 - 📧 **Email:** omkumarsingh2004@gmail.com
 - 💼 **LinkedIn:** [Om Kumar Singh](https://www.linkedin.com/in/om-kumarsingh)
-- 🏆 **Portfolio:** [GitHub Portfolio](https://github.com/om-kumar-singh)
 
 ---
 
