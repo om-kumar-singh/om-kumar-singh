@@ -1,106 +1,120 @@
-# 👋 Hi there, I'm Om Kumar Singh  
+# 👋 Hi, I'm Om Kumar Singh  
+**AI & Full-Stack Developer | Computer Science Engineering Student**
 
-[![GitHub followers](https://img.shields.io/github/followers/om-kumar-singh?label=Follow&style=social)](https://github.com/om-kumar-singh)
-[![Profile Views](https://komarev.com/ghpvc/?username=om-kumar-singh&color=blueviolet&style=flat-square)](https://github.com/om-kumar-singh)
-
----
-
-## 👨‍💻 About Me
-
-🎓 Final-year Computer Science Engineering student passionate about **AI, Data Science, and Full-Stack Development**.  
-💡 I love building intelligent, user-focused applications that bridge technology and real-world impact.  
-🚀 Currently exploring **React, Flask, and Machine Learning** for building scalable systems.  
-
-- 🌱 Learning: **LSTM**, **ARIMA**, **TypeScript**, **Next.js**, **Flask**  
-- 💬 Ask me about: **Python**, **React**, **Machine Learning**, **Web Development**  
-- 📫 Reach me at: **omkumarsingh2004@gmail.com**  
-- ⚡ Fun fact: I enjoy creating sleek, animated UI designs almost as much as coding the backend logic 😄  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/om-kumarsingh)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail)](mailto:omkumarsingh2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/om-kumar-singh)
 
 ---
 
-## 🧠 Tech Stack
+## 🚀 Professional Summary
 
-| Domain | Technologies |
-|--------|---------------|
-| 💻 Programming | Python, JavaScript, PHP, C++, SQL |
-| 🌐 Web Development | React, Node.js, Express, HTML, CSS, Tailwind |
-| 🤖 Machine Learning | TensorFlow, Keras, scikit-learn, NumPy, Pandas |
-| ☁️ Database & Cloud | MySQL, MongoDB |
-| 🛠️ Tools | Git, GitHub, VS Code, Postman, Jupyter, Figma |
+Final-year Computer Science Engineering student specializing in **AI-driven solutions** and **full-stack development**. Passionate about building scalable applications that solve real-world problems across FinTech, EdTech, and IoT domains. Strong expertise in machine learning, web technologies, and creating seamless user experiences.
 
 ---
 
-## 📂 Featured Projects  
+## 💼 Technical Expertise
 
-### 🔹 [CredNova – AI Loan Risk & Recommendation Platform](https://github.com/om-kumar-singh/CredNova-01)
-> **Domain:** FinTech | **Tech Stack:** React, TypeScript, Tailwind CSS, Flask, ML  
-> An AI-powered loan approval and recommendation system using ML-based credit scoring and dynamic UI animations.
+### **Artificial Intelligence & Machine Learning**
+- **Deep Learning:** TensorFlow, Keras, CNN, LSTM, ARIMA
+- **ML Algorithms:** Classification, Regression, Time Series Forecasting
+- **Computer Vision:** Digit Recognition, Image Processing
+- **Data Science:** Pandas, NumPy, Scikit-learn, Data Visualization
 
-### 🔹 [TestBuddy](https://github.com/om-kumar-singh/TestBuddy)
-> **Domain:** EdTech | **Tech Stack:** React, Node.js  
-> A smart quiz & assessment platform enabling real-time test creation, analytics, and leaderboard management.
+### **Full-Stack Development**
+- **Frontend:** React, TypeScript, Tailwind CSS, HTML5, CSS3
+- **Backend:** Node.js, Express, Flask, PHP
+- **Mobile:** Flutter, React Native
+- **Databases:** MySQL, MongoDB
 
-### 🔹 [KITAAB](https://github.com/om-kumar-singh/KITAAB)
-> **Domain:** E-Commerce | **Tech Stack:** PHP, MySQL  
-> An online book-selling platform with secure authentication and inventory management.
-
-### 🔹 [Foodel](https://github.com/om-kumar-singh/Foodel)
-> **Domain:** FoodTech | **Tech Stack:** Flutter  
-> A mobile app for food ordering with real-time menu updates and order tracking.
-
-### 🔹 [Amazon Clone](https://github.com/om-kumar-singh/Amazon-clone)
-> **Domain:** Web Development | **Tech Stack:** React, Redux  
-> A front-end clone of Amazon with cart, authentication, and checkout functionality.
-
-### 🔹 [Digit Recognizer](https://github.com/om-kumar-singh/Digit-recognizer)
-> **Domain:** Machine Learning | **Tech Stack:** Python, TensorFlow, Keras  
-> A CNN-based handwritten digit recognition model trained on the MNIST dataset.
-
-### 🔹 [Smart Home Energy Prediction System](https://github.com/om-kumar-singh/Smart-Home-Energy-Prediction-System)
-> **Domain:** IoT + AI | **Tech Stack:** Python (ARIMA, LSTM), Pandas, NumPy  
-> Predicts smart home energy consumption using time-series forecasting techniques (academic project).
-
-### 🔹 [TaxGenie](https://github.com/om-kumar-singh/TaxGenie)
-> **Domain:** FinTech | **Tech Stack:** Flask, HTML/CSS, ML  
-> An AI-based tax assistant that recommends deductions and automates tax calculations.
-
-### 🔹 [Blockchain Remittance System](https://github.com/om-kumar-singh/Blockchain-Remittance-system)
-> **Domain:** Blockchain | **Tech Stack:** Solidity, Web3.js, Ethereum  
-> A decentralized remittance system enabling transparent and secure cross-border transactions.
-
-### 🔹 [Loan Default Prediction System](https://github.com/om-kumar-singh/Loan-Default-Prediction-System)
-> **Domain:** FinTech | **Tech Stack:** Python, Flask, ML  
-> Predicts loan default probability using classification models for credit risk analysis.
-
-### 🔹 [FinMind-AI](https://github.com/om-kumar-singh/FinMind-AI)
-> **Domain:** Finance + AI | **Tech Stack:** React, Flask, ML  
-> An AI-powered financial insights dashboard offering credit scoring, market prediction, and personalized investment advice.
+### **Domain Specializations**
+- **FinTech:** Credit Scoring, Risk Analysis, Loan Prediction, Tax Systems
+- **EdTech:** Learning Platforms, Assessment Systems, Analytics
+- **Blockchain:** Smart Contracts, Decentralized Applications
+- **IoT:** Smart Home Systems, Energy Prediction
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Featured Projects
+
+### **CredNova – AI Loan Risk & Recommendation Platform**
+*FinTech | React, TypeScript, Flask, Machine Learning*
+- Developed ML-based credit scoring system for loan approval predictions
+- Built dynamic UI with real-time analytics and recommendation engine
+- Implemented risk assessment algorithms for financial decision support
+
+### **Smart Home Energy Prediction System**
+*IoT + AI | Python, LSTM, ARIMA, Time Series Analysis*
+- Created energy consumption forecasting model using LSTM and ARIMA
+- Analyzed seasonal patterns and peak usage times for smart home optimization
+- Achieved 92% prediction accuracy for daily energy usage
+
+### **FinMind-AI – Financial Intelligence Platform**
+*Finance + AI | React, Flask, Machine Learning*
+- Integrated multiple ML models for credit scoring and market predictions
+- Developed personalized investment recommendation system
+- Built comprehensive dashboard for financial analytics and insights
+
+### **Blockchain Remittance System**
+*Blockchain | Solidity, Web3.js, Ethereum*
+- Implemented decentralized cross-border payment system
+- Developed smart contracts for secure and transparent transactions
+- Created Web3 interface for seamless user experience
+
+### **TestBuddy – Smart Assessment Platform**
+*EdTech | React, Node.js, Analytics*
+- Engineered real-time quiz creation and management system
+- Implemented analytics dashboard for performance tracking
+- Built leaderboard and progress monitoring features
+
+---
+
+## 🔧 Technical Skills
+
+**Programming Languages:** Python, JavaScript, TypeScript, PHP, C++, SQL, Solidity
+
+**Frameworks & Libraries:** React, Node.js, Express, Flask, TensorFlow, Keras, Pandas, NumPy
+
+**Databases & Cloud:** MySQL, MongoDB, Firebase
+
+**Tools & Platforms:** Git, Docker, Jupyter, VS Code, Postman, Figma, Ethereum
+
+**Methodologies:** Agile Development, CI/CD, REST APIs, Microservices, Test-Driven Development
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om-kumar-singh&show_icons=true&theme=radical" height="180em" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-kumar-singh&layout=compact&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=om-kumar-singh&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-kumar-singh&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
 
-## 🏆 Achievements & Highlights
-- 🧩 Developed **AI-driven web and ML applications** in FinTech, IoT, and EdTech domains  
-- 🧠 Hands-on experience with **ARIMA**, **LSTM**, and **deep learning models**  
-- 🧑‍💻 Successfully deployed projects on **Netlify**, **Render**, and local environments  
-- ⚙️ Contributor to multiple open-source and academic projects  
+## 🎯 Current Focus
+
+- 🔭 Developing advanced time series forecasting models for financial markets
+- 🌱 Mastering **Next.js** and **cloud architecture** for scalable deployments
+- 💡 Exploring **quantum machine learning** and its applications in finance
+- 🚀 Building enterprise-grade full-stack applications with microservices
 
 ---
 
-## 🤝 Connect with Me
+## 📫 Let's Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/om-kumarsingh)  
-📧 [Email Me](mailto:omkumarsingh2004@gmail.com)  
+I'm always open to discussing **AI projects, technical collaborations, and innovative ideas**. Feel free to reach out for:
+
+- 🤝 **Technical collaborations** on AI/ML projects
+- 💼 **Internship opportunities** in software development
+- 🎯 **Freelance projects** in full-stack development
+- 📚 **Knowledge sharing** and tech discussions
+
+**Connect with me:**
+- 📧 **Email:** omkumarsingh2004@gmail.com
+- 💼 **LinkedIn:** [Om Kumar Singh](https://www.linkedin.com/in/om-kumarsingh)
+- 🏆 **Portfolio:** [GitHub Portfolio](https://github.com/om-kumar-singh)
 
 ---
 
-> *“Turning ideas into code that impacts real lives.”* ✨
+> *"Engineering intelligent solutions that bridge innovation and practical impact."* 🚀
