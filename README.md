@@ -1,119 +1,116 @@
-# 👋 Hi, I'm Om Kumar Singh  
-**AI & Full-Stack Developer | Computer Science Engineering Student**
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/om-kumarsingh)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail)](mailto:omkumarsingh2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/om-kumar-singh)
+# Om Kumar Singh
 
----
+**AI & Full-Stack Engineer · Final-Year CSE Student**
 
-## 🚀 Professional Summary
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-omega-eight-g1tkugtr0y.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Kumar%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-kumarsingh)
+[![Email](https://img.shields.io/badge/Email-omkumarsingh2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkumarsingh2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-om--kumar--singh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/om-kumar-singh)
 
-Final-year Computer Science Engineering student specializing in **AI-driven solutions** and **full-stack development**. Passionate about building scalable applications that solve real-world problems across FinTech, EdTech, and IoT domains. Strong expertise in machine learning, web technologies, and creating seamless user experiences.
-
----
-
-## 💼 Technical Expertise
-
-### **Artificial Intelligence & Machine Learning**
-- **Deep Learning:** TensorFlow, Keras, CNN, LSTM, ARIMA
-- **ML Algorithms:** Classification, Regression, Time Series Forecasting
-- **Computer Vision:** Digit Recognition, Image Processing
-- **Data Science:** Pandas, NumPy, Scikit-learn, Data Visualization
-
-### **Full-Stack Development**
-- **Frontend:** React, TypeScript, Tailwind CSS, HTML5, CSS3
-- **Backend:** Node.js, Express, Flask, PHP
-- **Mobile:** Flutter, React Native
-- **Databases:** MySQL, MongoDB
-
-### **Domain Specializations**
-- **FinTech:** Credit Scoring, Risk Analysis, Loan Prediction, Tax Systems
-- **EdTech:** Learning Platforms, Assessment Systems, Analytics
-- **Blockchain:** Smart Contracts, Decentralized Applications
-- **IoT:** Smart Home Systems, Energy Prediction
+</div>
 
 ---
 
-## 🏆 Featured Projects
-
-### **CredNova – AI Loan Risk & Recommendation Platform**
-*FinTech | React, TypeScript, Flask, Machine Learning*
-- Developed ML-based credit scoring system for loan approval predictions
-- Built dynamic UI with real-time analytics and recommendation engine
-- Implemented risk assessment algorithms for financial decision support
-
-### **Smart Home Energy Prediction System**
-*IoT + AI | Python, LSTM, ARIMA, Time Series Analysis*
-- Created energy consumption forecasting model using LSTM and ARIMA
-- Analyzed seasonal patterns and peak usage times for smart home optimization
-- Achieved 92% prediction accuracy for daily energy usage
-
-### **FinMind-AI – Financial Intelligence Platform**
-*Finance + AI | React, Flask, Machine Learning*
-- Integrated multiple ML models for credit scoring and market predictions
-- Developed personalized investment recommendation system
-- Built comprehensive dashboard for financial analytics and insights
-
-### **Blockchain Remittance System**
-*Blockchain | Solidity, Web3.js, Ethereum*
-- Implemented decentralized cross-border payment system
-- Developed smart contracts for secure and transparent transactions
-- Created Web3 interface for seamless user experience
-
-### **TestBuddy – Smart Assessment Platform**
-*EdTech | React, Node.js, Analytics*
-- Engineered real-time quiz creation and management system
-- Implemented analytics dashboard for performance tracking
-- Built leaderboard and progress monitoring features
+Final-year Computer Science Engineering student building **AI-driven, full-stack applications** across FinTech, HealthTech, IoT, and developer tooling. I focus on shipping end-to-end products — from ML model to polished UI — that solve concrete real-world problems.
 
 ---
 
-## 🔧 Technical Skills
+## Selected Projects
 
-**Programming Languages:** Python, JavaScript, TypeScript, PHP, C++, SQL, Solidity
+### BharatFinanceAI — Indian Markets Intelligence Platform
+`FastAPI` `React` `Firebase` `MCP` `yfinance` `Gemini`
 
-**Frameworks & Libraries:** React, Node.js, Express, Flask, TensorFlow, Keras, Pandas, NumPy
+Full-stack Indian fintech platform with live NSE/BSE quotes, RSI/MACD technical analysis, mutual fund NAV and SIP projections, IPO tracking with GMP data, and a conversational AI advisor. Ships a standalone **BharatFinanceMCP\_v1** server exposing mutual fund, IPO, macro, and capital-gains tools to AI-native clients — with adaptive payload truncation to prevent context overload.
 
-**Databases & Cloud:** MySQL, MongoDB, Firebase
-
-**Tools & Platforms:** Git, Docker, Jupyter, VS Code, Postman, Figma, Ethereum
-
-**Methodologies:** Agile Development, CI/CD, REST APIs, Microservices, Test-Driven Development
+[→ View Repository](https://github.com/om-kumar-singh/FinanceMCP_v2)
 
 ---
 
-## 📈 GitHub Analytics
+### AI Knowledge Assistant — Full-Stack RAG SaaS Platform
+`Next.js` `FastAPI` `LangChain` `ChromaDB` `FLAN-T5` `PostgreSQL`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om-kumar-singh&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-kumar-singh&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
+RAG-based document Q&A system. PDFs and text files are chunked, embedded with `sentence-transformers`, and stored in ChromaDB. A local FLAN-T5 LLM answers natural-language queries grounded in retrieved passages, with multi-turn session memory and chat persistence. Includes Terraform infra scaffolding and GitHub Actions CI.
 
----
-
-## 🎯 Current Focus
-
-- 🔭 Developing advanced time series forecasting models for financial markets
-- 🌱 Mastering **Next.js** and **cloud architecture** for scalable deployments
-- 💡 Exploring **quantum machine learning** and its applications in finance
-- 🚀 Building enterprise-grade full-stack applications with microservices
+[→ View Repository](https://github.com/om-kumar-singh/AI-Knowledge-Assistant)
 
 ---
 
-## 📫 Let's Connect
+### Consume Wise — AI Food Analysis
+`React` `Vite` `Tailwind CSS` `Gemini API` `Netlify Functions`
 
-I'm always open to discussing **AI projects, technical collaborations, and innovative ideas**. Feel free to reach out for:
+Personalised food safety analyser powered by Google Gemini. Users set a health profile (diabetes, hypertension, allergies) and the app analyses ingredients to return a risk level, harmful component breakdown, and safe alternatives. Gemini API calls are proxied through a Netlify serverless function to keep the key off the client bundle.
 
-- 🤝 **Technical collaborations** on AI/ML projects
-- 💼 **Internship opportunities** in software development
-- 🎯 **Freelance projects** in full-stack development
-- 📚 **Knowledge sharing** and tech discussions
-
-**Connect with me:**
-- 📧 **Email:** omkumarsingh2004@gmail.com
-- 💼 **LinkedIn:** [Om Kumar Singh](https://www.linkedin.com/in/om-kumarsingh)
+[→ View Repository](https://github.com/om-kumar-singh/Consume-Wise-AI-Food-Analysis)
 
 ---
 
-> *"Engineering intelligent solutions that bridge innovation and practical impact."* 🚀
+### Solar & Wind Panel Location Optimisation
+`Python` `TensorFlow` `CNN` `LSTM` `Folium`
+
+End-to-end deep learning pipeline for renewable energy site selection. A hybrid CNN–LSTM model — with attention-like branch gating and transfer-style warmup — evaluates geographical and environmental features to rank candidate sites. Outputs a ranked CSV, performance metrics, and an interactive Folium map of optimal locations.
+
+[→ View Repository](https://github.com/om-kumar-singh/Solar-and-Wind-Panel-Location-Optimization)
+
+---
+
+### Task Manager App
+`Flutter` `Riverpod` `Hive` `Material 3`
+
+Production-grade mobile task manager with full CRUD, blocked-task dependency UX, debounced search with inline title highlighting, and form draft persistence — all backed by local Hive storage with a clean layered architecture.
+
+[→ View Repository](https://github.com/om-kumar-singh/task-manager-app)
+
+---
+
+### Shopping Cart Website
+`Node.js` `Express` `MongoDB` `EJS`
+
+Full-stack e-commerce app with session-based authentication, guest-cart-to-user-cart merging on login, an admin product and order management dashboard, and order status tracking. Security hardened with bcrypt, Helmet, input sanitisation, and HTTP-only session cookies.
+
+[→ View Repository](https://github.com/om-kumar-singh/Shopping-Cart-Website)
+
+---
+
+## Technical Skills
+
+**Languages** · Python · JavaScript · TypeScript · Dart · C++ · SQL · Solidity
+
+**Frontend** · React · Next.js · Flutter · Tailwind CSS · Vite · EJS
+
+**Backend** · Node.js · Express · FastAPI · Flask · REST APIs · MCP (Model Context Protocol)
+
+**AI / ML** · TensorFlow · Keras · LangChain · ChromaDB · Hugging Face Transformers · Sentence-Transformers · CNN · LSTM · ARIMA · Gemini API
+
+**Databases & Auth** · PostgreSQL · MongoDB · Firebase (Auth + Realtime DB) · Hive · SQLAlchemy
+
+**DevOps & Tools** · Docker · Terraform · GitHub Actions · Render · Netlify · Git · Postman · Figma
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=om-kumar-singh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-kumar-singh&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</div>
+
+---
+
+## Currently
+
+- Exploring advanced time series forecasting for financial markets
+- Deepening expertise in **Next.js** and scalable cloud architecture
+- Researching **quantum machine learning** applications in finance
+- Building enterprise-grade applications with microservices patterns
+
+---
+
+## Open To
+
+- Internship opportunities in AI/ML or full-stack development
+- Technical collaborations on AI-driven products
+- Freelance full-stack projects
+
+**Reach me at** · [omkumarsingh2004@gmail.com](mailto:omkumarsingh2004@gmail.com) · [LinkedIn](https://www.linkedin.com/in/om-kumarsingh) · [Portfolio](https://portfolio-omega-eight-g1tkugtr0y.vercel.app/)
